@@ -1,0 +1,14 @@
+[
+  {
+    "type": "message",
+    "content": "Hi there, I am Aida, an AI bot created by Artflow."
+  },
+  {
+    "type": "story",
+    "content": "Sure, writing story now ... (this can take 10 seconds.)"
+  },
+  {
+    "type": "image",
+    "content": "Sure, creating character now... (this can take up to 30 seconds.)"
+  }
+]
